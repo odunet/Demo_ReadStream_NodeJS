@@ -1,4 +1,4 @@
-# Zuri Node Server
+# Demo Node Server
 
 Solution to simple Zuri Task
 
